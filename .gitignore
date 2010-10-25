@@ -1,3 +1,4 @@
 *.db
 # Ignore objects and archives.
-*.[pyc]
+*.pyc
+polls/*.pyc

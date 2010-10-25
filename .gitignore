@@ -1,0 +1,3 @@
+*.db
+# Ignore objects and archives.
+*.[pyc]

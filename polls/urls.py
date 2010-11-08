@@ -9,3 +9,4 @@ urlpatterns = patterns('polls.views',
     (r'^(?P<poll_id>\d+)/results/$', 'results'),
     (r'^(?P<poll_id>\d+)/vote/$', 'vote'),
 )
+
